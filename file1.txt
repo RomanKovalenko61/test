@@ -2,4 +2,4 @@ Hello world!
 12345
 Good bye!
 Line from user2
-Line from user1
+Line from user1 - lesson about rebase
